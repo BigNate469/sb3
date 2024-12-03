@@ -7,3 +7,5 @@ project (.sb3) files.
 > This package is not affiliated with Scratch or the Scratch foundation.
 
 Made NPM-compatible.
+
+Credit goes to @mybearworld for creating the original.
