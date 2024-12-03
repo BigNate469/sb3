@@ -9,6 +9,6 @@
   "license": "MIT",
   "dependencies": {
     "jsr": "^0.13.2",
-    "@zip-js/zip-js": "@jsr:@zip-js/zip-js@^2.7.44"
+    "@zip-js/zip-js": "npm:@jsr/zip-js__zip-js@^2.7.44"
   }
 }
