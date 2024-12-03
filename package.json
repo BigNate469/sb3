@@ -1,0 +1,14 @@
+{
+  "name": "sb3",
+  "version": "0.1.4",
+  "description": "three.js based particle system",
+  "main": "mod.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jsr": "^0.13.2",
+    "@zip-js/zip-js": "@jsr:@zip-js/zip-js@^2.7.44"
+  }
+}
